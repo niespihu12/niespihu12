@@ -33,7 +33,7 @@
 
 ```javascript
 const nicolas = {
-    ubicacion: "Bogotá, Colombia 🇨🇴",
+    ubicacion: "Santa Marta, Colombia 🇨🇴",
     rol: "Software Engineering Student | Full Stack Developer",
     especialidad: ["Web Development", "AI & ML", "Backend Optimization"],
     estado: "Último semestre de Ingeniería de Software",
