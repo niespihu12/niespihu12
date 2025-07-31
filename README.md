@@ -53,7 +53,7 @@ const nicolas = {
 
 ### **Frameworks & Librerías**
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=django,spring,react,nextjs,laravel,flask,nodejs" height="40" alt="frameworks"  />
+  <img src="https://skillicons.dev/icons?i=django,spring,react,nextjs,laravel,flask,nodejs,fastapi" height="40" alt="frameworks"  />
 </div>
 
 ### **Frontend & Styling**
